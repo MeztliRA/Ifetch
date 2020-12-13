@@ -6,4 +6,4 @@
 # License: GPL V3
 
 echo "User:      $(whoami)"
-inxi -bc 25
+inxi -bc 32
