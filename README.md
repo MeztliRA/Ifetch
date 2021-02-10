@@ -14,4 +14,4 @@ Download the bash script and run it.
 
 # Screenshot
 
-https://gitlab.com/Meztli_RA/ifetch/-/blob/master/Ifetch%20Screenshot.png
+https://github.com/MeztliRA/Ifetch/blob/master/Ifetch%20Screenshot.png
